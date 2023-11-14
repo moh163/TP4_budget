@@ -1,7 +1,7 @@
 name: Python package
 on: [push]
 jobs:
-  build:
+  brouahaha:
 
     runs-on: ubuntu-latest
     steps:
